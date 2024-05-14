@@ -1,4 +1,6 @@
-
+*{
+    text-decoration: none;
+}
 .paras{
   font-size: 30px;
   margin: 0;
